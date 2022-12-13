@@ -42,7 +42,7 @@ function createLine() {
     return `<tr id='row'>
       <td class="b-no-border"><input type="text" class="table-field input key"></td>
       <td class="b-no-border"><input type="text" class="table-field input value"></td>
-      <td class="b-no-border"><input type="button" class="button-delete" id="btn_delete" value="×"></td>
+      <td class="b-no-border"><input type="button" class="button-delete" id="btn_delete" value="X"></td>
     </tr>`;
 }
 
